@@ -5,7 +5,7 @@
 Me chamo Emily, sou natural do Ceará. Conclui curso técnico em informática em dezembro de 2024, realizado no Colégio Santo Inácio - RJ. Atualmente estou me graduando em análise e desenvolvimento de sistemas, pela Universidade Veiga de Almeida, com previsão para conclusão em julho de 2027. 
 
 <p align="center">
-  <img src="./Assets/cat.gif" alt="gatinho" title="gatinho"/>
+  <img src="./Assets/cute-kawaii.gif" alt="gatinho" title="gatinho"/>
 </p>
 
 ---
