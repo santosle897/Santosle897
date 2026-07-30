@@ -2,7 +2,11 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Emily, sou natural do Ceará. Conclui curso técnico em informática em dezembro de 2024, realizado no Colégio Santo Inácio - RJ. Atualmente estou me graduando em análise e desenvolvimento de sistemas, pela Universidade Veiga de Almeida, com previsão para conclusão em julho de 2027.  
+Me chamo Emily, sou natural do Ceará. Conclui curso técnico em informática em dezembro de 2024, realizado no Colégio Santo Inácio - RJ. Atualmente estou me graduando em análise e desenvolvimento de sistemas, pela Universidade Veiga de Almeida, com previsão para conclusão em julho de 2027. 
+
+<p align="center">
+  <img src="https://tenor.com/pt-BR/view/cat-gif-13043798271220344810"/>
+</p>
 
 ---
 ### Linguagens e Tecnologias
@@ -14,6 +18,8 @@ Me chamo Emily, sou natural do Ceará. Conclui curso técnico em informática em
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="30px" alt="PHP" title="PHP"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cakephp/cakephp-original.svg" width="30px" alt="CakePHP" title="CakePHP"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="30px" alt="MySQL" title="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="30px" alt="Git" title="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="30px" alt="Github" title="Github"/>
 </p>
 
 ### Estatísticas
